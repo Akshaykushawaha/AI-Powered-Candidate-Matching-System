@@ -153,8 +153,8 @@ This project is licensed under the MIT License (Will be added at a later stage, 
 
 ## 📞 Contact
 
-Akshay Kushawaha - [LinkedIn](https://www.linkedin.com/in/akshay-kushawaha-301a95220/)
-Divya Shah - [LinkedIn](https://www.linkedin.com/in/divya-shah-4a16791b5/)
+Akshay Kushawaha - [LinkedIn](https://www.linkedin.com/in/akshay-kushawaha-301a95220/) <br/>
+Divya Shah - [LinkedIn](https://www.linkedin.com/in/divya-shah-4a16791b5/) <br/>
 Project Link: [https://github.com/Akshaykushawaha/AI-Powered-Candidate-Matching-System](https://github.com/Akshaykushawaha/AI-Powered-Candidate-Matching-System)
 
 ## 🙏 Acknowledgments
