@@ -88,7 +88,7 @@ print(match_result)
 ## 🏗️ Project Structure
 
 ```
-ats-smart-matching/
+AI-Powered-Candidate-Matching-System/
 ├── smart_matching_engine.py
 ├── requirements.txt
 ├── README.md
