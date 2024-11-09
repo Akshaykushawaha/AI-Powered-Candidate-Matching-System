@@ -1,5 +1,5 @@
 # AI-Powered ATS Smart Matching Engine
-## This Is A Project For Submission To Primathon 2.0
+## This Is A Sample For The Project Submission In Primathon 2.0
 An intelligent Applicant Tracking System (ATS) component that uses advanced NLP and machine learning to match candidates with job requirements. This system provides accurate candidate-job matching through multi-dimensional analysis of resumes, job descriptions, and skills.
 
 ## 🚀 Features
